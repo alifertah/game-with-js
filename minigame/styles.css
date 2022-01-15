@@ -1,0 +1,21 @@
+
+#object{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    background-color: wheat;
+    border-radius: 500%;
+}
+*{
+    background-color: gray;
+    overflow: hidden;
+}
+#time{
+   display: flex;
+   justify-content: center;
+   font-size: 32px;
+   font-family: Comic Sans MS;
+}
+#best-score{
+    font-size: 20px;
+}
